@@ -1,0 +1,10 @@
+add r1, r2, r2;
+add r1, r2, r2;
+add r1, r2, r2;
+add r1, r2, r2;
+jump -3;
+add r6, r7, r7;
+add r6, r7, r7;
+add r6, r7, r7;
+add r6, r7, r7;
+add r6, r7, r7;
