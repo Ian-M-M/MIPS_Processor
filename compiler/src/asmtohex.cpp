@@ -5,6 +5,7 @@
 #include <regex>
 #include <string>
 #include <unistd.h>
+#include <cstring.h>
 
 /**
  * Assembly to verilog-hexadecimal compiler.
